@@ -16,6 +16,7 @@ dependencies:
         - tensorflow==2.16.1
         - numpy==1.25.2
         - xgboost==2.0.3
+        - wordcloud==1.9.3
         - scikit-learn==1.4.2
         - mesa==2.3.0
 prefix: C:\Users\dan\anaconda3\envs\hsma_assessment
